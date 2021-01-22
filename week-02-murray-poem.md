@@ -10,3 +10,5 @@ It raises the question of what really differentiates human from technology other
 
 
 (https://www.youtube.com/watch?v=RMK9AphfLco)
+
+![Image of Eliza](file:///Users/linapark/Desktop/Eliza.png)
