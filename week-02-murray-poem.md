@@ -12,3 +12,5 @@ It raises the question of what really differentiates human from technology other
 (https://www.youtube.com/watch?v=RMK9AphfLco)
 
 ![Image of Eliza](http://www.le-grenier-informatique.fr/medias/images/eliza-title.jpg)
+
+![Image of Eliza Creator](https://www.masswerk.at/elizabot/weizenbaum-eliza.jpg)
