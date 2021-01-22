@@ -7,3 +7,6 @@ Thus, often leaving the people it conversed with confused by its digital illusio
 Even though Eliza will always remain a product of technological invention.
 
 It raises the question of what really differentiates human from technology other than a bodily connection. 
+
+
+(https://www.youtube.com/watch?v=RMK9AphfLco)
