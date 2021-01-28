@@ -1,0 +1,1 @@
+In this week's reading, "Entangled", Chris Salter writes about German composer Richard Wagner's term known as Gesamtkunstwerk. Although a seemingly confusing concept to understand, Wagner seems to depict Gesamkunstwerk as a "total work of art."
