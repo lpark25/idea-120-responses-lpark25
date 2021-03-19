@@ -2,7 +2,8 @@
 
 <p>In the past I wrote this narrative about a potato harvest.</p>
 
-<p><strong><small>Buried beneath depths of grimy dirt, mounds speckle the mass of sinking land.
+<p><strong><small>
+Buried beneath depths of grimy dirt, mounds speckle the mass of sinking land.
 Darkness envelops a sliver of light that punctuates the abyss.
 Inches below, cold grains surround bulbous bodies.
 
