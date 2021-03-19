@@ -2,7 +2,7 @@
 
 <p>In the past I wrote this narrative about a potato harvest.</p>
 
-<p>Buried beneath depths of grimy dirt, mounds speckle the mass of sinking land.
+<p><strong>Buried beneath depths of grimy dirt, mounds speckle the mass of sinking land.
 Darkness envelops a sliver of light that punctuates the abyss.
 Inches below, cold grains surround bulbous bodies.
 
@@ -20,5 +20,5 @@ Desiring to escape, their bulging bodies touch, like sandpaper against smooth sk
 
 Weight lifts as months of furrowed soil uncovers the dirty aftermath.
 Luscious labor-worthy brown lumps appear above ground announcing their potential.
-
+</strong>
 </p>
