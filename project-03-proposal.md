@@ -23,3 +23,6 @@ Weight lifts as months of furrowed soil uncovers the dirty aftermath.
 Luscious labor-worthy brown lumps appear above ground announcing their potential.
 </small></strong>
 </p>
+
+
+<p>I would like to turn this narrative into a non-linear narrative game where the user is a potato. The user will start buried in the ground and they will have actions that they can choose from. The user will not know that they are a potato until the end of the game when they are dug up. The actions they chose will determine if they are harvested as a "good" or "bad" potato.</p>
