@@ -2,4 +2,6 @@
 
 <p>As a lover of videogames, I truly believe that videogames are a form of art. There is so much planning and creative process that takes place when making a videogame. I find that the beauty in videogames is that it can be a manifestation of whatever the creator wants it to be. It can tell a specific story or be complete nonsense. But regardless it can take the player into a completely new environment and instill a new experience. This is specifically why I think it's crucial to stress the importance of making videogames accessible for all.</p>
 
-<p></p>
+<p>I do play a lot of videogames and I have come across a variety of interesting range of games. However, I think I have noticed the lack of diversity when it comes to who the games are targeted for and who is creating them. Especially when it comes to mainstream games, majority of them tend to be created for men by men. This is also why I think that there is a stigma against female gamers within the gaming community. What enforces this negativity towards female gamers even more is the lack of diversity within videogames. Which in result, just drives the gaming community into the same cycle of viral games that are created by the same groups of people. By enforcing more diversity in the gaming platform it can help to break this toxic cycle. Further, it could possibly create a more welcoming community for gamers that are considered the minority.</p>
+
+<p><p>
