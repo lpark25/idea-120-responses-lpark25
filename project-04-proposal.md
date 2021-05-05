@@ -1,1 +1,1 @@
-My portfolio will be organized like an index. It will be split into three sections: responses, proposals, and projects. These sections will list all the repositories made for each assignment. When an assignment is clicked on it will take the user to the designated project.
+My portfolio will be organized like an index. It will be split into three sections: responses, proposals, and projects. These sections will list all the repositories made for each assignment and display each project. When the user clicks on one of the links it will take them to the designated project.
